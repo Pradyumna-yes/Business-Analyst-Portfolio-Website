@@ -14,10 +14,16 @@ Finally, the contact page includes an inbuilt contact box that users can fill ou
 In summary, the Pradyumna.ie website is a great example of a simple and effective portfolio website for business analytics professionals. Its minimalistic design and straightforward layout allow the user's work to shine while providing potential clients or employers with all the necessary information about the user's skills, experience, and accomplishments. Its open-source nature also makes it easy for users to customize the content to their own needs and host it on shared hosting.
 
 Demo:https://pradyumna.ie/
+Template Credit :Live Resume @ BootstrapDash.
 
 Website Screenshot 
+#HOMEPAGE PAGE
 ![image](https://github.com/Pradyumna-yes/Business-Analyst-Portfolio-Website/assets/96283346/67b52545-23f8-4f01-b5ba-258ea4503a14)
+#RESUME PAGE
 ![image](https://github.com/Pradyumna-yes/Business-Analyst-Portfolio-Website/assets/96283346/06df1783-d130-43ad-8672-17e74780d2c2)
+#PORTFOLIO PAGE
 ![image](https://github.com/Pradyumna-yes/Business-Analyst-Portfolio-Website/assets/96283346/5962c28c-2d4e-4e6c-8c9d-59f4db81796f)
+#BLOG PAGE
 ![image](https://github.com/Pradyumna-yes/Business-Analyst-Portfolio-Website/assets/96283346/87ef9977-ae67-43e8-881e-14d20d04f411)
+#CONTACT PAGE
 ![image](https://github.com/Pradyumna-yes/Business-Analyst-Portfolio-Website/assets/96283346/6f6fa6fa-2c34-4691-aeda-7254d20d1ba1)
